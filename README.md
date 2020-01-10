@@ -1,5 +1,5 @@
 # Volume Control Pack
-This pack consits of applications to control system audio volume on PS vita in real time. Can be usefull if vol+- buttons are broken:
+This pack consits of applications designed to control system audio volume on PS vita in real time. Can be usefull if vol+- buttons are broken:
 1. Modal Volume Control application
 2. Volume Control application
 3. Modal Volume Control plugin (only needed for Modal Volume Control)
