@@ -10,7 +10,7 @@ Both of this applications can be used simultaneously with any games, including t
 You have two choices:
 1. Install VolumeControl.vpk. Can be used right away, plugin is not required. You can install plugin (under *All) to get quick access to the application from games by pressing SELECT+RIGHT. Shell BGM will be played back in the app, allowing for easy volume setup.
 
-2. (Warning! This variant has some bugs and is not recommended for now) Install ModalVol plugin (under * All) and after that install ModalVolumeControl application. Application bubble will not appear in LiveArea, this is normal. Reboot your Vita. You can now launch Modal Volume Control application in most of the games by pressing SELECT + RIGHT button combination.
+2. (Not available for now) Install ModalVol plugin (under * All) and after that install ModalVolumeControl application. Application bubble will not appear in LiveArea, this is normal. Reboot your Vita. You can now launch Modal Volume Control application in most of the games by pressing SELECT + RIGHT button combination.
 
 # How to Build
 Use vitasdk to build applications and plugin. After building, boot parameters for applications have to be set manually. To do that:
