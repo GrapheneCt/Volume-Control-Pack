@@ -4,7 +4,7 @@ This pack consits of applications to control system audio volume on PS vita in r
 2. Volume Control application
 3. Modal Volume Control plugin (only needed for Modal Volume Control)
 
-All of this applications can be used simultaneously with any games, including the ones that require enlarged memory (with LowMemMode plugin). Runs on system-reserved CPU core.
+Both of this applications can be used simultaneously with any games, including the ones that require enlarged memory (with LowMemMode plugin). Runs on system-reserved CPU core.
 
 # Usage
 You have two choices:
