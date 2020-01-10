@@ -1,3 +1,5 @@
+//It seems that app doesn't launch in true modal mode. Maybe there's some additional check in sceShell?
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
